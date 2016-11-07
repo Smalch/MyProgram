@@ -15,7 +15,7 @@ import java.util.Scanner;
         public static void main(String[] args) {
 
             int n = in.nextInt();
-            int m = 4;
+            int m = 444;
             int[] a = new int[n];
             for (int i = 0; i < n; i++) {
                 a[i] =m;
